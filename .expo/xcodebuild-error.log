@@ -1,0 +1,11 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, arch:arm64, id:615235EC-683B-4365-AACF-12276751EDB2, OS:18.6, name:iPhone 16 }
+{ platform:iOS Simulator, arch:x86_64, id:615235EC-683B-4365-AACF-12276751EDB2, OS:18.6, name:iPhone 16 }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	SwiftEmitModule normal arm64 Emitting\ module\ for\ FireTasks (in target 'FireTasks' from project 'FireTasks')
+	EmitSwiftModule normal arm64 (in target 'FireTasks' from project 'FireTasks')
+	Building workspace FireTasks with scheme FireTasks and configuration Debug
+(3 failures)

@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FireTasks",
+    "slug": "firetasks",
+    "scheme": "firetasks",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "jsEngine": "hermes",
+    "ios": {
+      "bundleIdentifier": "com.anonymous.firetasks"
+    }
+  }
+}
